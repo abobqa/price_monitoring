@@ -1,0 +1,6 @@
+external_id,name,category,brand,source,price,currency,availability
+OFF-001,Беспроводные наушники TWS X1,Аудио,SoundPro,offline_csv,3490,RUB,true
+OFF-002,Умная колонка Mini Voice,Умный дом,HomeTech,offline_csv,5990,RUB,true
+OFF-003,Электрическая зубная щётка Pro 3,Красота и здоровье,SmileCare,offline_csv,4290,RUB,false
+OFF-004,Портативный SSD 1TB USB-C,Компьютеры,DataFast,offline_csv,7890,RUB,true
+OFF-005,Кофемашина капсульная Compact,Бытовая техника,BrewMaster,offline_csv,12990,RUB,true
