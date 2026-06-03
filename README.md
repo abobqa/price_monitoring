@@ -123,6 +123,24 @@ PYTHONPATH=src streamlit run dashboard/app.py
 
 Фильтры: магазин, бренд, категория. Графики: динамика цен, топ изменений, средние по категориям, прогноз LR.
 
+Streamlit-дэшборд показывает актуальные цены, динамику средней цены, топ роста/падения и среднюю цену по категориям.
+
+### Актуальные цены
+
+![Актуальные цены](docs/images/dashboard_current_prices.png)
+
+### Динамика средней цены
+
+![Динамика средней цены](docs/images/dashboard_price_dynamics.png)
+
+### Топ-10 роста и падения цены
+
+![Топ-10 изменений цены](docs/images/dashboard_top_changes.png)
+
+### Средняя цена по категориям
+
+![Средняя цена по категориям](docs/images/dashboard_category_avg.png)
+
 ### 5. Airflow (опционально)
 
 ```bash
